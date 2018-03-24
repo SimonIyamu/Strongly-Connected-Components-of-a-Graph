@@ -5,6 +5,4 @@ Also contains two example graphs, one in each txt file.
 Compilation:  
 ```make```  
 Example:  
-```
-./demo < example.txt
-```
+```./demo < example.txt```
