@@ -2,7 +2,9 @@
 Finds the strongly connected components of a directed graph.
 Also contains two example graphs, one in each txt file.
 
-Compilation:
+Compilation:  
 ```make```
-Example:
+Example:  
+```
 ./demo < example.txt
+```
